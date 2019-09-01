@@ -1,0 +1,8 @@
+<map id="GameSession" name="GameSession">
+<area shape="rect" id="node1" title=" " alt="" coords="17,1144,161,1484"/>
+<area shape="rect" id="node2" href="$class_persistence.html" title=" " alt="" coords="30,1545,149,1672"/>
+<area shape="rect" id="node3" href="$class_player.html" title=" " alt="" coords="21,863,158,1056"/>
+<area shape="rect" id="node4" href="$class_king.html" title=" " alt="" coords="87,635,244,801"/>
+<area shape="rect" id="node5" href="$class_piece.html" title=" " alt="" coords="88,287,211,573"/>
+<area shape="rect" id="node6" href="$class_move_list.html" title=" " alt="" coords="5,5,136,225"/>
+</map>

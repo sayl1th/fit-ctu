@@ -1,0 +1,7 @@
+<map id="LoadGameMenu::loadFile" name="LoadGameMenu::loadFile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,180,56"/>
+<area shape="rect" id="node2" href="$class_file_persistence.html#a84d4001532cb827502fed807af22874a" title=" " alt="" coords="228,31,373,56"/>
+<area shape="rect" id="node3" href="$class_piece.html#a5e25d8e0703b4f88ebc005220e0b8d41" title=" " alt="" coords="421,5,535,31"/>
+<area shape="rect" id="node5" href="$class_board.html#aa8b9cce54848d0c001c8c8f69db77bf8" title=" " alt="" coords="426,55,531,80"/>
+<area shape="rect" id="node4" href="$class_piece.html#a7bf30654961624ebfe25298a77d255ae" title=" " alt="" coords="583,5,714,31"/>
+</map>

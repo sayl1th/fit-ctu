@@ -1,0 +1,8 @@
+<map id="Persistence" name="Persistence">
+<area shape="rect" id="node1" title=" " alt="" coords="5,896,124,1023"/>
+<area shape="rect" id="node2" href="$class_game_session.html" title=" " alt="" coords="53,1144,197,1484"/>
+<area shape="rect" id="node3" href="$class_player.html" title=" " alt="" coords="198,863,335,1056"/>
+<area shape="rect" id="node4" href="$class_king.html" title=" " alt="" coords="264,635,421,801"/>
+<area shape="rect" id="node5" href="$class_piece.html" title=" " alt="" coords="265,287,387,573"/>
+<area shape="rect" id="node6" href="$class_move_list.html" title=" " alt="" coords="182,5,313,225"/>
+</map>

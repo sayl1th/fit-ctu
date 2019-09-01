@@ -1,0 +1,10 @@
+<map id="Rook::findAllMoves" name="Rook::findAllMoves">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,141,80"/>
+<area shape="rect" id="node2" href="$class_move_list.html#ab8dd28adca35998cdcc5e7a5d75ab53a" title=" " alt="" coords="193,5,351,31"/>
+<area shape="rect" id="node3" href="$class_piece.html#ada9b160d43bb3e7283244f23e7a4338b" title=" " alt="" coords="212,55,332,80"/>
+<area shape="rect" id="node8" href="$class_game_session.html#a9828e148c0138cb72daac266869a07b8" title=" " alt="" coords="189,104,355,129"/>
+<area shape="rect" id="node4" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="417,5,533,31"/>
+<area shape="rect" id="node6" href="$class_move_list.html#a1c4f4cae646b50449eab9c7a0d18d43f" title=" " alt="" coords="423,55,527,80"/>
+<area shape="rect" id="node7" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="403,104,546,129"/>
+<area shape="rect" id="node5" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="594,5,745,31"/>
+</map>

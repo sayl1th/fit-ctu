@@ -1,0 +1,6 @@
+<map id="Player::getAllFigures" name="Player::getAllFigures">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,150,56"/>
+<area shape="rect" id="node2" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="211,5,327,31"/>
+<area shape="rect" id="node4" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="198,55,341,80"/>
+<area shape="rect" id="node3" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="389,5,540,31"/>
+</map>

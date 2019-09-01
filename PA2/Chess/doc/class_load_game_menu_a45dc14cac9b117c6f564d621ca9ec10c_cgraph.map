@@ -1,0 +1,10 @@
+<map id="LoadGameMenu::readInput" name="LoadGameMenu::readInput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,190,80"/>
+<area shape="rect" id="node2" href="$class_load_game_menu.html#a7c737173fbf9ee887d5cfed10a1de0e2" title=" " alt="" coords="253,5,424,31"/>
+<area shape="rect" id="node3" href="$class_load_game_menu.html#a204a42da7f07d87837e3e0be83b93663" title=" " alt="" coords="238,55,439,80"/>
+<area shape="rect" id="node4" href="$class_load_game_menu.html#a6b65ba1ea2f3f12e0525f13f07efecc6" title=" " alt="" coords="251,104,426,129"/>
+<area shape="rect" id="node5" href="$class_file_persistence.html#a84d4001532cb827502fed807af22874a" title=" " alt="" coords="487,104,632,129"/>
+<area shape="rect" id="node6" href="$class_piece.html#a5e25d8e0703b4f88ebc005220e0b8d41" title=" " alt="" coords="680,79,794,104"/>
+<area shape="rect" id="node8" href="$class_board.html#aa8b9cce54848d0c001c8c8f69db77bf8" title=" " alt="" coords="685,128,790,153"/>
+<area shape="rect" id="node7" href="$class_piece.html#a7bf30654961624ebfe25298a77d255ae" title=" " alt="" coords="842,79,973,104"/>
+</map>

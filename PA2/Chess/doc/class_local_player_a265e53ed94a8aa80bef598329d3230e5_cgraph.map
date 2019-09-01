@@ -1,0 +1,11 @@
+<map id="LocalPlayer::getCommand" name="LocalPlayer::getCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,184,56"/>
+<area shape="rect" id="node2" href="$class_local_player.html#a4ed9641e781fa37d8690ce2bce120fcd" title=" " alt="" coords="249,5,404,31"/>
+<area shape="rect" id="node3" href="$class_command.html#ae9de33d57c681dfea781daa2d4d80d69" title=" " alt="" coords="232,55,421,80"/>
+<area shape="rect" id="node4" href="$class_game_session.html#a61f59fc91cffbd5f2685a5699b369ed9" title=" " alt="" coords="469,55,649,80"/>
+<area shape="rect" id="node5" href="$class_game_session.html#ab5e0379ef9e56aacaa895fbd41c54745" title=" " alt="" coords="697,29,867,55"/>
+<area shape="rect" id="node6" href="$class_game_session.html#a62b09c68bbe75ccc3be0e733a82edef9" title=" " alt="" coords="915,55,1060,80"/>
+<area shape="rect" id="node7" href="$class_board.html#aacac94a0b1305525f281010d771ea831" title=" " alt="" coords="1108,55,1238,80"/>
+<area shape="rect" id="node8" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="1286,29,1402,55"/>
+<area shape="rect" id="node9" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="1450,55,1601,80"/>
+</map>

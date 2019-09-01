@@ -1,0 +1,11 @@
+Chess
+
+Game modes:
+1. Player vs Computer
+2. Player vs Player
+
+Functionalities:
+	Rules - Classic chess game
+	Saving
+	Loading
+	Notifying about end of the game and the result

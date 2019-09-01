@@ -1,0 +1,7 @@
+<map id="GameSession::checkPos" name="GameSession::checkPos">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,176,56"/>
+<area shape="rect" id="node2" href="$class_game_session.html#a62b09c68bbe75ccc3be0e733a82edef9" title=" " alt="" coords="224,31,369,56"/>
+<area shape="rect" id="node3" href="$class_board.html#aacac94a0b1305525f281010d771ea831" title=" " alt="" coords="417,31,547,56"/>
+<area shape="rect" id="node4" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="595,5,711,31"/>
+<area shape="rect" id="node5" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="759,31,910,56"/>
+</map>

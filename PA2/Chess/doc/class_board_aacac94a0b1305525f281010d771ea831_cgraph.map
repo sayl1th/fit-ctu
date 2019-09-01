@@ -1,0 +1,5 @@
+<map id="Board::movePiece" name="Board::movePiece">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,136,56"/>
+<area shape="rect" id="node2" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="184,5,300,31"/>
+<area shape="rect" id="node3" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="348,31,499,56"/>
+</map>

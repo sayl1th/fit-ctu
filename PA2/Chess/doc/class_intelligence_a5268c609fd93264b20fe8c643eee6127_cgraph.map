@@ -1,0 +1,13 @@
+<map id="Intelligence::getMove" name="Intelligence::getMove">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,153,155"/>
+<area shape="rect" id="node2" href="$class_move_list.html#ab8dd28adca35998cdcc5e7a5d75ab53a" title=" " alt="" coords="205,5,363,31"/>
+<area shape="rect" id="node3" href="$class_player.html#a33b9a860aa13715702106bc494711227" title=" " alt="" coords="212,55,356,80"/>
+<area shape="rect" id="node7" href="$class_game_session.html#a9828e148c0138cb72daac266869a07b8" title=" " alt="" coords="201,104,367,129"/>
+<area shape="rect" id="node8" href="$class_move_list.html#a80e5418b0ee58eeba9c20787f1c577d8" title=" " alt="" coords="207,153,361,179"/>
+<area shape="rect" id="node10" href="$class_move_list.html#a576965a4dde8f469fe56342e80ef038d" title=" " alt="" coords="420,203,553,228"/>
+<area shape="rect" id="node11" href="$class_move_list.html#a5df36974093476177430c3ad5cb2ea92" title=" " alt="" coords="219,255,349,280"/>
+<area shape="rect" id="node4" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="429,31,545,56"/>
+<area shape="rect" id="node6" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="415,80,558,105"/>
+<area shape="rect" id="node5" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="606,31,757,56"/>
+<area shape="rect" id="node9" href="$class_move_list.html#a1c4f4cae646b50449eab9c7a0d18d43f" title=" " alt="" coords="435,153,539,179"/>
+</map>

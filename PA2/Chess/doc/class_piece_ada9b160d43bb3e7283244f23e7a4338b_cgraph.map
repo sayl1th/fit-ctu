@@ -1,0 +1,7 @@
+<map id="Piece::checkPos" name="Piece::checkPos">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,125,80"/>
+<area shape="rect" id="node2" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="187,5,303,31"/>
+<area shape="rect" id="node4" href="$class_move_list.html#a1c4f4cae646b50449eab9c7a0d18d43f" title=" " alt="" coords="192,55,297,80"/>
+<area shape="rect" id="node5" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="173,104,316,129"/>
+<area shape="rect" id="node3" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="364,5,515,31"/>
+</map>

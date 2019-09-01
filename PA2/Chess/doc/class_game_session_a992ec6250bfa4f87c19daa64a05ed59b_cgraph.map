@@ -1,0 +1,15 @@
+<map id="GameSession::isCheckMate" name="GameSession::isCheckMate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,168,195,193"/>
+<area shape="rect" id="node2" href="$class_player.html#a33b9a860aa13715702106bc494711227" title=" " alt="" coords="248,43,392,68"/>
+<area shape="rect" id="node6" href="$class_move_list.html#a80e5418b0ee58eeba9c20787f1c577d8" title=" " alt="" coords="243,92,398,117"/>
+<area shape="rect" id="node8" href="$class_move_list.html#a576965a4dde8f469fe56342e80ef038d" title=" " alt="" coords="462,143,596,168"/>
+<area shape="rect" id="node9" href="$class_move_list.html#a5df36974093476177430c3ad5cb2ea92" title=" " alt="" coords="256,193,385,219"/>
+<area shape="rect" id="node10" href="$class_move_list.html#afcbf471b2fee1b3ef27bb86bacbe1fc1" title=" " alt="" coords="267,243,373,268"/>
+<area shape="rect" id="node11" href="$class_board.html#a498b943a711261a773a4d5fa27e3d2e2" title=" " alt="" coords="248,292,392,317"/>
+<area shape="rect" id="node3" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="660,241,776,267"/>
+<area shape="rect" id="node5" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="457,44,600,69"/>
+<area shape="rect" id="node4" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="824,267,975,292"/>
+<area shape="rect" id="node7" href="$class_move_list.html#a1c4f4cae646b50449eab9c7a0d18d43f" title=" " alt="" coords="477,93,581,119"/>
+<area shape="rect" id="node12" href="$class_game_session.html#a9828e148c0138cb72daac266869a07b8" title=" " alt="" coords="446,243,612,268"/>
+<area shape="rect" id="node13" href="$class_board.html#aacac94a0b1305525f281010d771ea831" title=" " alt="" coords="464,292,594,317"/>
+</map>

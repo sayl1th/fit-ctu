@@ -1,0 +1,17 @@
+<map id="Intelligence::getCommand" name="Intelligence::getCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,216,182,241"/>
+<area shape="rect" id="node2" href="$class_intelligence.html#a5268c609fd93264b20fe8c643eee6127" title=" " alt="" coords="230,153,377,179"/>
+<area shape="rect" id="node13" href="$class_my_move.html#af7aaf5f3c177b3ee297f205ddd51e697" title=" " alt="" coords="241,216,366,241"/>
+<area shape="rect" id="node14" href="$class_my_move.html#a87e515b561c0eefeb5c7f0d50d42ebc2" title=" " alt="" coords="234,291,372,316"/>
+<area shape="rect" id="node3" href="$class_move_list.html#ab8dd28adca35998cdcc5e7a5d75ab53a" title=" " alt="" coords="429,5,587,31"/>
+<area shape="rect" id="node4" href="$class_player.html#a33b9a860aa13715702106bc494711227" title=" " alt="" coords="436,55,580,80"/>
+<area shape="rect" id="node8" href="$class_game_session.html#a9828e148c0138cb72daac266869a07b8" title=" " alt="" coords="425,104,592,129"/>
+<area shape="rect" id="node9" href="$class_move_list.html#a80e5418b0ee58eeba9c20787f1c577d8" title=" " alt="" coords="431,153,586,179"/>
+<area shape="rect" id="node11" href="$class_move_list.html#a576965a4dde8f469fe56342e80ef038d" title=" " alt="" coords="644,203,778,228"/>
+<area shape="rect" id="node12" href="$class_move_list.html#a5df36974093476177430c3ad5cb2ea92" title=" " alt="" coords="443,255,573,280"/>
+<area shape="rect" id="node5" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="653,31,769,56"/>
+<area shape="rect" id="node7" href="$class_piece.html#ad606da7da06a2ceaa4b87d97a4babd44" title=" " alt="" coords="640,80,782,105"/>
+<area shape="rect" id="node6" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="830,31,981,56"/>
+<area shape="rect" id="node10" href="$class_move_list.html#a1c4f4cae646b50449eab9c7a0d18d43f" title=" " alt="" coords="659,153,763,179"/>
+<area shape="rect" id="node15" href="$class_piece.html#aa7cb2d819d918c3d50937e25fd842cb4" title=" " alt="" coords="448,304,569,329"/>
+</map>

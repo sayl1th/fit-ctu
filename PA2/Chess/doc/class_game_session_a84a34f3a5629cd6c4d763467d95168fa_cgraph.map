@@ -1,0 +1,11 @@
+<map id="GameSession::sessionStart" name="GameSession::sessionStart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,55,191,80"/>
+<area shape="rect" id="node2" href="$class_board.html#a34b7fd691f7cb6ecf941fa9026821101" title=" " alt="" coords="251,5,392,31"/>
+<area shape="rect" id="node3" href="$class_game_session.html#a3239e065115b39513be5d46afd8205ca" title=" " alt="" coords="239,55,404,80"/>
+<area shape="rect" id="node8" href="$class_board.html#a3f5b48d92226217de5d488f3d5fb234a" title=" " alt="" coords="258,105,384,131"/>
+<area shape="rect" id="node4" href="$class_player.html#a0cf8a011db663126fccfa074429ccfc3" title=" " alt="" coords="457,5,568,31"/>
+<area shape="rect" id="node5" href="$class_board.html#a9f4c4b54b65ad937b249f3e7554a9485" title=" " alt="" coords="456,55,569,80"/>
+<area shape="rect" id="node6" href="$class_board.html#a65f177a921b741f2dd52ccdcf13f4749" title=" " alt="" coords="621,55,737,80"/>
+<area shape="rect" id="node7" href="$class_position.html#a62ed896323d2594cae3d2fc76c2cc50c" title=" " alt="" coords="785,80,936,105"/>
+<area shape="rect" id="node9" href="$class_piece.html#aa7cb2d819d918c3d50937e25fd842cb4" title=" " alt="" coords="452,156,573,181"/>
+</map>
