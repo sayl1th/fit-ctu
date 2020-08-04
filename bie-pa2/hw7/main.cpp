@@ -30,8 +30,6 @@ class NoRouteException
 };
 
 using filter = function<bool (*)(int)>;
-//template <typename S>
-//auto f = [](int s) {
 
 
 template <typename _T, typename _E>
